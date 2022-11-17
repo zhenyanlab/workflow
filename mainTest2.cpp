@@ -128,7 +128,7 @@ void func2()
     }
 }
 
-int main()
+int main3()
 {
     std::cout << "start main thread" << std::endl;
     boost::thread thread1(&func1);
